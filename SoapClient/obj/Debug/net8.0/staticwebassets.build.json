@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "f3wL+k4WXW1YLWDPtvRyxFBQM/IiHrXpYapnGW0uAxU=",
+  "Source": "SoapServer",
+  "BasePath": "_content/SoapServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
